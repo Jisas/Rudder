@@ -1,7 +1,7 @@
 # Rudder
 Español:
 <br></br>
-En este git se encuentra el codigo entero implementado bajo el framework de boostrap con los lenjuages de html5 css3 y java script para la implementación de un sitio web perteneciente a la empresa "Rudder"
+En este git se encuentra el codigo entero implementado bajo el framework de boostrap con los lenjuages de html5 css3 y java script para el desarrollo de un sitio web perteneciente a la empresa "Rudder".
 <br></br>
 Rudder es una empresa experimental creada en el año 2018 con el fin dar un suspiro fresco al ámbito de diseño y desarrollo web, enfocando sus proyectos hacia la experiencia del usuario para darles un mayor desenvolvimiento y comprension, creando asi un ambiente digital apto para que todo el publico pueda desempeñarse de manera eficiente y sencilla
 <br></br>
